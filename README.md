@@ -12,3 +12,6 @@ I commit aboutUs and made updates to index.html
 
 #Salim Bello
 I commit keyboard.html and updates to index.html
+
+#Muhammad Abubakar
+I commit howToUse.html and updates to home.html
