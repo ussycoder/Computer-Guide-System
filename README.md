@@ -5,4 +5,7 @@ Welcome to the Computer Guide System, a comprehensive repository of resources, t
 I Commit Index.html and Pictures Folder
 
 #Ma'awiya Kabir
-I Commit home.html and made updates to index.html"
+I Commit home.html and made updates to index.html
+
+#Aminu Tasi'u Muhammad
+I commit aboutUs and made updates to index.html
