@@ -9,3 +9,6 @@ I Commit home.html and made updates to index.html
 
 #Aminu Tasi'u Muhammad
 I commit aboutUs and made updates to index.html
+
+#Salim Bello
+I commit keyboard.html and updates to index.html
