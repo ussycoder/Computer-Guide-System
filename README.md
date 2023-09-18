@@ -3,3 +3,6 @@ Welcome to the Computer Guide System, a comprehensive repository of resources, t
 
 #Usman Ishaq Karofi
 I Commit Index.html and Pictures Folder
+
+#Ma'awiya Kabir
+I Commit home.html and made updates to index.html"
