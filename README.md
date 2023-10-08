@@ -15,3 +15,6 @@ I commit keyboard.html and updates to index.html
 
 #Muhammad Abubakar
 I commit howToUse.html and updates to home.html
+
+#Abdulrahim Amiru
+I commit mouse.html and updates home.html
