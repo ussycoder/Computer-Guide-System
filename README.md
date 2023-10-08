@@ -18,3 +18,6 @@ I commit howToUse.html and updates to home.html
 
 #Abdulrahim Amiru
 I commit mouse.html and updates home.html
+
+#Bello Ibrahim Bello
+I commit contactUs.html and updates home.html
